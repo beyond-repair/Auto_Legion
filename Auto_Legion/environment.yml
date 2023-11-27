@@ -1,0 +1,13 @@
+# environment.yml
+name: auto_legion
+channels:
+  - defaults
+dependencies:
+  - blinker=1.7.0
+  - click
+  - colorama
+  - Flask
+  - itsdangerous
+  - Jinja2
+  - MarkupSafe
+  - Werkzeug
